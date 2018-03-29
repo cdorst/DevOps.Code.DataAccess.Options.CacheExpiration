@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>cdorst</Authors>
+    <Copyright>Copyright © Christopher Dorst</Copyright>
+    <Description>Contains properties indicating how long objects should be held in cache</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdorst-dev.azureedge.net/nuget/package-icon-64.png</PackageIconUrl>
+    <PackageId>CDorst.DevOps.Code.DataAccess.Options.CacheExpiration</PackageId>
+    <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Options.CacheExpiration/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Options.CacheExpiration</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Options.CacheExpiration</RepositoryUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
